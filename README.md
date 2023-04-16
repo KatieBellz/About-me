@@ -24,4 +24,10 @@ A passionate Full Stack Innovator.
 
 💻 Tech Stack:
 
+* React Native, Firebase, GraphQL - "Mobile Magic" 📱💥🔮
+* Node.js, Express, MongoDB - "MEANingful Web" 🖥️🚀📊
+* Vue.js, Node.js, Express, MongoDB - "Vulcan Web" 🚀🌌💻
+* React, Node.js, Express, PostgreSQL - "Top-Tier REAP" 🌾💻📈
+* Angular, Node.js, Express, MongoDB - "Mango Tango" 🥭💃💻
+
 
