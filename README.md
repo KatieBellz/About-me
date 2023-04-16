@@ -26,9 +26,11 @@ A passionate Full Stack Innovator.
 
 * React Native, Firebase, GraphQL - "Mobile Magic" 📱💥🔮
 * Node.js, Express, MongoDB - "MEANingful Web" 🖥️🚀📊
-* Vue.js, Node.js, Express, MongoDB - "Vulcan Web" 🚀🌌💻
-* React, Node.js, Express, PostgreSQL - "Top-Tier REAP" 🌾💻📈
+* Vue.js, Node.js, Express, MongoDB - "Vulcan Web" 🌌💻🚀
+* React, Node.js, Express, PostgreSQL - "REAP the Rewards" 🌾💻📈
 * Angular, Node.js, Express, MongoDB - "Mango Tango" 🥭💃💻
+* Python, Flask, SQLAlchemy - "Pythonic Power" 🐍💻🔮
+* C#, ASP.NET, SQL Server - "C# Sharp Stack" 💻🔪💥
 
 
 ![Jim Carrey fast-typing](https://user-images.githubusercontent.com/84817579/232347397-9f648b4b-dce7-4c2b-b2db-487d66bbe008.gif)
