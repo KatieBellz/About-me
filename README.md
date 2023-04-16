@@ -10,7 +10,7 @@ A passionate Full Stack Innovator.
 * ⚡ Fun fact: "My passion lies at the intersection of software engineering and machine learning."
 
 
-🌐 Socials:
+Connect with Me 🌐
 
 
 <a href="https://www.linkedin.com/in/kathyr/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/" /></a>
@@ -36,7 +36,13 @@ A passionate Full Stack Innovator.
 ![Jim Carrey fast-typing](https://user-images.githubusercontent.com/84817579/232347397-9f648b4b-dce7-4c2b-b2db-487d66bbe008.gif)
 
 
+# My Top Repositories
 
+1. 💻 Face-Recognition-System: A face recognition system built using Python and deep learning techniques.
+2. 📝 Flask-Blog: A simple blogging platform built using Flask and SQLAlchemy.
+3. 💬 NodeJS-Chat-App: A real-time chat application built using Node.js, Express, and Socket.io.
+4. 🚀 Python-Flask-RESTful-API: A RESTful API built using Flask and SQLAlchemy for a to-do list application.
+5. 📱 React-Native-To-Do-App: A simple to-do list application built using React Native and Firebase.
 
 
 
