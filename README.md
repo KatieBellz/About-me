@@ -21,16 +21,15 @@ A passionate Full Stack Innovator.
 🕵️‍♀️ "Debugging is like being a detective in a crime movie where you're also the murderer." - Filipe Fortes 😂
 
 
+## Tech Skills 💻
 
-💻 Tech Stack:
-
+* Python, Flask, SQLAlchemy - "Pythonic Power" 🐍💻🔮
+* C#, ASP.NET, SQL Server - "C# Sharp Stack" 💻🔪💥
 * React Native, Firebase, GraphQL - "Mobile Magic" 📱💥🔮
 * Node.js, Express, MongoDB - "MEANingful Web" 🖥️🚀📊
 * Vue.js, Node.js, Express, MongoDB - "Vulcan Web" 🌌💻🚀
 * React, Node.js, Express, PostgreSQL - "REAP the Rewards" 🌾💻📈
 * Angular, Node.js, Express, MongoDB - "Mango Tango" 🥭💃💻
-* Python, Flask, SQLAlchemy - "Pythonic Power" 🐍💻🔮
-* C#, ASP.NET, SQL Server - "C# Sharp Stack" 💻🔪💥
 
 🚀 Let's collaborate and create something incredible! Don't forget to check out my fast-typing skills with this Jim Carrey gif:
 
