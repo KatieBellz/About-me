@@ -1,4 +1,4 @@
-## Hi there 👋 I am Kathy Rodriguez
+## Hola, World!👋👋 I am Kathy Rodriguez
 A passionate Full Stack Innovator.
 
 # 💫 About Me:
