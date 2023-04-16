@@ -32,7 +32,7 @@ A passionate Full Stack Innovator.
 * Python, Flask, SQLAlchemy - "Pythonic Power" 🐍💻🔮
 * C#, ASP.NET, SQL Server - "C# Sharp Stack" 💻🔪💥
 
-🚀 Let's work together and create something amazing! Don't forget to check out my fast-typing skills with this Jim Carrey gif:
+🚀 Let's collaborate and create something incredible! Don't forget to check out my fast-typing skills with this Jim Carrey gif:
 
 ![Jim Carrey fast-typing](https://user-images.githubusercontent.com/84817579/232347397-9f648b4b-dce7-4c2b-b2db-487d66bbe008.gif)
 
