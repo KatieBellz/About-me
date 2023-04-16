@@ -31,6 +31,14 @@ A passionate Full Stack Innovator.
 * Angular, Node.js, Express, MongoDB - "Mango Tango" 🥭💃💻
 
 
+![Jim Carrey fast-typing](https://user-images.githubusercontent.com/84817579/232347397-9f648b4b-dce7-4c2b-b2db-487d66bbe008.gif)
+
+
+
+
+
+
+
 
 
 
