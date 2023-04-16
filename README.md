@@ -6,6 +6,7 @@ A passionate Full Stack Innovator.
 * 🌱 I'm currently learning Ethical Hacking.
 * 👯 I'm looking to collaborate on Security in AI.
 * 🤔 I'm looking for help with AI projects.
+* 📫 Please contact me via: 1mrs.python@gmail.com
 * ⚡ Fun fact: "My passion lies at the intersection of software engineering and machine learning."
 
 
@@ -17,7 +18,8 @@ A passionate Full Stack Innovator.
 
 ✍️ Random Dev Quote:
 
-"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler
+🕵️‍♀️ "Debugging is like being a detective in a crime movie where you're also the murderer." - Filipe Fortes 😂
+
 
 
 💻 Tech Stack:
