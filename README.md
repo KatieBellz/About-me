@@ -11,7 +11,10 @@ A passionate Full Stack Innovator.
 
 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kathyr/)
+
+<a href="https://www.linkedin.com/in/kathyr/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/" /></a>
+
+
 
 
 
