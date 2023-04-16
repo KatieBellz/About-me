@@ -15,7 +15,9 @@ A passionate Full Stack Innovator.
 <a href="https://www.linkedin.com/in/kathyr/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/" /></a>
 
 
+✍️ Random Dev Quote:
 
+"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler
 
 
 💻 Tech Stack:
