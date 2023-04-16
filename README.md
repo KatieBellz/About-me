@@ -45,7 +45,7 @@ Connect with Me 🌐
 5. 📱 React-Native-To-Do-App: A simple to-do list application built using React Native and Firebase.
 
 
-
+And that's it! Thanks for checking out my profile and learning a bit about me. I hope you found my projects interesting and my jokes at least a little bit funny. If you have any questions or want to collaborate on a project, feel free to reach out to me at 1mrs.python@gmail.com. Happy coding! 💻🚀
 
 
 
