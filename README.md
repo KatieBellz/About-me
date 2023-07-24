@@ -1,19 +1,11 @@
-## Hola, World!👋👋 I am a passionate Full Stack Innovator.
+## Hola, World!👋👋 
 
 
 # 💫 About Me:
 * 🔭 Currently, I'm pursuing Computer Engineering and Biology.
-* 🌱 I'm currently learning Ethical Hacking.
-* 👯 I'm looking to collaborate on Security in AI and Machiner Learning projects.
-* 🤔 I'm looking for help with AI projects.
+* 👯 I'm looking to collaborate on Machiner Learning projects.
 * 📫 Please contact me via: 1mrs.python@gmail.com
 * ⚡ Fun fact: "My passion lies at the intersection of software engineering and machine learning."
-
-
-Connect with Me 🌐
-
-
-1mrs.python@gmail.com
 
 
 ✍️ Random Dev Quote:
