@@ -1,8 +1,8 @@
-## Hola, World!👋👋 I am Kathy Rodriguez
-A passionate Full Stack Innovator.
+## Hola, World!👋👋 I am a passionate Full Stack Innovator.
+
 
 # 💫 About Me:
-* 🔭 Currently, I'm pursuing a BSc in  Computer Engineering.
+* 🔭 Currently, I'm pursuing Computer Engineering and Biology.
 * 🌱 I'm currently learning Ethical Hacking.
 * 👯 I'm looking to collaborate on Security in AI and Machiner Learning projects.
 * 🤔 I'm looking for help with AI projects.
@@ -13,7 +13,7 @@ A passionate Full Stack Innovator.
 Connect with Me 🌐
 
 
-<a href="https://www.linkedin.com/in/kathyr/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/" /></a>
+1mrs.python@gmail.com
 
 
 ✍️ Random Dev Quote:
