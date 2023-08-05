@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-* 🔭 Currently, I'm pursuing Computer Engineering and Biology.
+* 🔭 Currently, I'm pursuing Computer Science and Biology.
 * 👯 I'm looking to collaborate on Machiner Learning projects.
 * 📫 Please contact me via: 1mrs.python@gmail.com
 * ⚡ Fun fact: "My passion lies at the intersection of software engineering and machine learning."
