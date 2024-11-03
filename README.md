@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-* 🔭 Currently, I'm pursuing Computer Science, Philosophy and Astrophysics.
+* 🔭 Currently, I'm pursuing my bachelors degree in Computer Science.
 * 👯 I'm looking to collaborate on Machiner Learning projects.
 * 📫 Please contact me via: 1mrs.python@gmail.com
 * ⚡ Fun fact: "My passion lies at the intersection of software engineering and machine learning."
